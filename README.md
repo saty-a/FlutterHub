@@ -1,7 +1,5 @@
 # FlutterHub
 
-![FlutterHub Logo](https://example.com/your-logo.png)
-
 Welcome to FlutterHub, your go-to destination for a curated collection of remarkable Flutter projects!
 
 ## About
@@ -14,8 +12,6 @@ FlutterHub is a community-driven repository where you can discover and contribut
 - 🎨 **Beautiful UI Components:** Discover stunning UI components and widgets for your projects.
 - 🛠️ **Useful Plugins:** Access essential Flutter plugins and packages to streamline your app development.
 - 🌟 **Community Favorites:** Check out projects that have garnered attention and praise from the Flutter community.
-
-![FlutterHub Screenshot](https://example.com/screenshot.png)
 
 ## Getting Started
 
@@ -30,8 +26,6 @@ FlutterHub is a community-driven repository where you can discover and contribut
 3. Add your Flutter project or make improvements.
 4. Submit a pull request.
 
-![Contribution Workflow](https://example.com/contribution-workflow.png)
-
 Let's grow together as a Flutter community!
 
 ## Join the Community
@@ -39,7 +33,5 @@ Let's grow together as a Flutter community!
 - Follow us on GitHub by clicking the "Star" button.
 - Share your thoughts and ideas in the Issues section.
 - Connect with fellow Flutter enthusiasts in the Discussions.
-
-![Community](https://example.com/community.png)
 
 Happy Fluttering! 🦋
