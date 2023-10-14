@@ -34,4 +34,18 @@ Let's grow together as a Flutter community!
 - Share your thoughts and ideas in the Issues section.
 - Connect with fellow Flutter enthusiasts in the Discussions.
 
+<table>
+  <tr>
+    <td>
+    <img align="left" src="https://raw.githubusercontent.com/codinasion/.github/master/assets/octocat.png" width="190">
+    <h3>Thanks for contributing :purple_heart:</h3>
+    <ul>
+      <li>Thanks for all your contributions and efforts</li>
+      <li>We thank you being part of our :sparkles: commUnity :sparkles: !</li>
+    </ul>
+    <img width="900" height="0">
+    </td>
+  </tr>
+</table>
+
 Happy Fluttering! 🦋
