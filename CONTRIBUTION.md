@@ -5,7 +5,7 @@ Thank you for your interest in contributing to [FlutterHub]()! 🩵
 FlutterHub is a community-driven repository where you can discover and contribute to a diverse range of Flutter applications, UI components, plugins, and more.
 Whether you're a seasoned Flutter developer or just starting, you'll find valuable resources to boost your Flutter journey.
 
-## How to Contribute
+## How to Contribute 👉
 We welcome all types of contributions and appreciate your help in making this project better.
 To contribute to [FlutterHub](), please follow these steps:
 
@@ -46,7 +46,7 @@ To contribute to [FlutterHub](), please follow these steps:
     -   If you find any upgradation or bug in the Repo or any project, you can create your own issue or work on the previous issues.
     -   When creating PR make sure you tag the required issue using # issuenumber
 
-## Your First Code Contribution
+## Your First Code Contribution 🌟
 
 If you are making your first code contribution, please follow these guidelines:
 
@@ -54,7 +54,7 @@ If you are making your first code contribution, please follow these guidelines:
 -   Use clear and concise commit messages
 -   Make sure to Check for issue tab and check if the issue already exist
 
-## Improving the Documentation
+## Improving the Documentation 💡
 
 If you want to improve the documentation, please follow these guidelines:
 
@@ -62,7 +62,7 @@ If you want to improve the documentation, please follow these guidelines:
 -   Make sure to include all necessary information
 -   Make sure to Check for issue tab and check if the issue already exist
 
-## Project Acceptence Criteria
+## Project Acceptence Criteria ✅
 
 - Project should be a Flutter project
 - It can be an App, UI component, a Plugin, etc🔥
