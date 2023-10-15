@@ -49,3 +49,11 @@ Let's grow together as a Flutter community!
 </table>
 
 Happy Fluttering! 🦋
+
+## Credits
+
+A heartful thanks to all the people who have contributed to this project. 
+
+<a href="https://github.com/saty-a/FlutterHub/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=saty-a/FlutterHub" />
+</a>
