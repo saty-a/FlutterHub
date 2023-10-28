@@ -70,7 +70,7 @@ Let's grow together as a Flutter community!
     <h3>Thanks for contributing :purple_heart:</h3>
     <ul>
       <li>Thanks for all your contributions and efforts</li>
-      <li>We thank you being part of our :sparkles: commUnity :sparkles: !</li>
+      <li>We thank you for being part of our :sparkles: commUnity :sparkles: !</li>
     </ul>
     <img width="900" height="0">
     </td>
