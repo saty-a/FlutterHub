@@ -30,7 +30,7 @@ We're thrilled that you want to contribute to FlutterHub! Here's a step-by-step 
 
     git clone https://github.com/YourUsername/FlutterHub.git
 
-    Replace `YourUsername` with your GitHub username.
+    Replace 'yourUserName' with your GitHub username.
 
 3. **Create a New Branch**: Create a new branch for your contribution. Use a descriptive branch name that summarizes the purpose of your contribution.
 
